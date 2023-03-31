@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Digital Dreamers STEAM Academy",
+    "description": "",
+    "home_page_url": "https://digitaldreamersstemacademy.github.io",
+    "feed_url": "https://digitaldreamersstemacademy.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dipam Acharyya"
+    },
+    "items": [
+        {
+            "id": "https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy/",
+            "url": "https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy/",
+            "title": "Digital Dreamers STEAM Academy",
+            "summary": "Here is Digital Dreamers STEAM Academy",
+            "content_html": "<p><span style=\"color: #000000;\">Here is Digital Dreamers STEAM Academy</span></p>",
+            "author": {
+                "name": "Dipam Acharyya"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-30T23:10:55-07:00",
+            "date_modified": "2023-03-30T23:10:55-07:00"
+        }
+    ]
+}
