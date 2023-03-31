@@ -3,7 +3,7 @@
     <title>Digital Dreamers STEAM Academy</title>
     <link href="https://digitaldreamersstemacademy.github.io/feed.xml" rel="self" />
     <link href="https://digitaldreamersstemacademy.github.io" />
-    <updated>2023-03-31T00:45:22-07:00</updated>
+    <updated>2023-03-31T01:11:14-07:00</updated>
     <author>
         <name>Dipam Acharyya</name>
     </author>
@@ -50,15 +50,18 @@
         </author>
         <link href="https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy-2/"/>
         <id>https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy-2/</id>
+        <media:content url="https://digitaldreamersstemacademy.github.io/media/posts/2/minecraft-image.jpg" medium="image" />
 
-        <updated>2023-03-31T00:01:25-07:00</updated>
+        <updated>2023-03-31T01:05:59-07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://digitaldreamersstemacademy.github.io/media/posts/2/minecraft-image.jpg" alt="A screenshot from Minecraft where 3 student of color player models interact in our Digital Dreamers STEAM Academy online classroom environment, supported by Minecraft Educator Edition." />
                     In this course, students will learn how to create their own custom worlds, characters, items, and mechanics using Minecraft Education Edition and Code Builder.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://digitaldreamersstemacademy.github.io/media/posts/2/minecraft-image.jpg" class="type:primaryImage" alt="A screenshot from Minecraft where 3 student of color player models interact in our Digital Dreamers STEAM Academy online classroom environment, supported by Minecraft Educator Edition." /></p>
                 <p><span style="font-weight: 400;">In this course, students will learn how to create their own custom worlds, characters, items, and mechanics using Minecraft Education Edition and Code Builder. They will also explore various aspects of game design such as storytelling, level design, user interface, sound effects, and testing.</span></p>
 <p><span style="font-weight: 400;">The course consists of 10 lessons, each lasting about an hour. The lessons are:</span></p>
 <ol>
@@ -85,15 +88,18 @@
         </author>
         <link href="https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy/"/>
         <id>https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy/</id>
+        <media:content url="https://digitaldreamersstemacademy.github.io/media/posts/1/roblox-image.jpg" medium="image" />
 
-        <updated>2023-03-31T00:00:03-07:00</updated>
+        <updated>2023-03-31T01:11:14-07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://digitaldreamersstemacademy.github.io/media/posts/1/roblox-image.jpg" alt="" />
                     Our Roblox game design course is a fun and engaging way to introduce kids to STEAM concepts and skills. In this course, students will&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://digitaldreamersstemacademy.github.io/media/posts/1/roblox-image.jpg" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">Our Roblox game design course is a fun and engaging way to introduce kids to STEAM concepts and skills. In this course, students will learn how to create their own games using Roblox Studio, a powerful and user-friendly game development tool. They will also learn about programming, design, logic, problem-solving, collaboration and more.</span></p>
 <p><span style="font-weight: 400;">The course consists of 10 lessons, each lasting 90 minutes. The lessons are:</span></p>
 <ol>
