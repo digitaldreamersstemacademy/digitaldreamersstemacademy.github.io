@@ -5,24 +5,24 @@
     "home_page_url": "https://digitaldreamersstemacademy.github.io",
     "feed_url": "https://digitaldreamersstemacademy.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://digitaldreamersstemacademy.github.io/media/website/robot-logo-dreamers.png",
     "author": {
         "name": "Dipam Acharyya"
     },
     "items": [
         {
-            "id": "https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy-3/",
-            "url": "https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy-3/",
+            "id": "https://digitaldreamersstemacademy.github.io/intro-to-arduino/",
+            "url": "https://digitaldreamersstemacademy.github.io/intro-to-arduino/",
             "title": "Intro to Arduino",
             "summary": "This course is designed for kids who want to learn how to design and build their own Arduino projects. Arduino is a platform that&hellip;",
             "content_html": "<p><span style=\"font-weight: 400;\">This course is designed for kids who want to learn how to design and build their own Arduino projects. Arduino is a platform that combines hardware and software to create interactive devices that can sense and control the physical world. Arduino is easy to use, fun, and creative.</span></p>\n<p> </p>\n<p><span style=\"font-weight: 400;\">In this course, students will learn the basics of Arduino programming and circuit design. students will also learn how to use different sensors and actuators to make their projects more interactive and responsive. students will work on hands-on projects that are fun, creative, and related to some real world attribute.</span></p>\n<p> </p>\n<p><span style=\"font-weight: 400;\">The course consists of four modules, each with a different theme and project. The modules are:</span></p>\n<p> </p>\n<p><span style=\"font-weight: 400;\">- </span><strong>Module 1</strong><span style=\"font-weight: 400;\">: Introduction to Arduino. In this module, students will learn how to set up their Arduino board and software, how to write and upload their first program, and how to use LEDs, buttons, and potentiometers. students will also learn about variables, functions, and loops in Arduino programming. The project for this module is a traffic light simulator that changes colors based on a button input.</span></p>\n<p><span style=\"font-weight: 400;\">- </span><strong>Module 2:</strong><span style=\"font-weight: 400;\"> Sensors and Serial Communication. In this module, students will learn how to use different types of sensors, such as light sensors, temperature sensors, ultrasonic sensors, and sound sensors. students will also learn how to send and receive data between their Arduino and their computer using serial communication. The project for this module is a mini weather station that displays temperature, humidity, light level, and sound level on their computer screen.</span></p>\n<p><span style=\"font-weight: 400;\">- </span><strong>Module 3:</strong><span style=\"font-weight: 400;\"> Motors and Servos. In this module, students will learn how to use different types of motors and servos, such as DC motors, stepper motors, servo motors, and vibration motors. students will also learn how to control the speed and direction of their motors using PWM (pulse width modulation) signals. The project for this module is a mini RC airplane that can fly using a joystick controller.</span></p>\n<p><span style=\"font-weight: 400;\">-</span><strong> Module 4:</strong><span style=\"font-weight: 400;\"> LCDs and Bluetooth. In this module, students will learn how to use LCD displays to show text and graphics on their Arduino projects. students will also learn how to use Bluetooth modules to communicate wirelessly between their Arduino and their smartphone. The project for this module is a compact weather station that displays temperature, humidity, pressure, and altitude on an LCD screen and sends the data to their smartphone via Bluetooth.</span></p>\n<p> </p>\n<p><span style=\"font-weight: 400;\">By the end of this course, students will have gained the skills and confidence to design and build their own Arduino projects. Students will also have a portfolio of four projects that demonstrate their creativity and problem-solving abilities. This course is a great way to introduce students to the world of electronics, programming, and engineering.</span></p>",
+            "image": "https://digitaldreamersstemacademy.github.io/media/posts/3/arduino-course-image-idea.png",
             "author": {
                 "name": "Dipam Acharyya"
             },
             "tags": [
             ],
             "date_published": "2023-03-30T23:57:53-07:00",
-            "date_modified": "2023-03-31T00:01:32-07:00"
+            "date_modified": "2023-03-31T00:45:22-07:00"
         },
         {
             "id": "https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy-2/",
