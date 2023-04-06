@@ -3,14 +3,14 @@
     <title>Digital Dreamers STEAM Academy</title>
     <link href="https://digitaldreamersstemacademy.github.io/feed.xml" rel="self" />
     <link href="https://digitaldreamersstemacademy.github.io" />
-    <updated>2023-03-31T22:56:15-07:00</updated>
+    <updated>2023-04-05T18:09:32-07:00</updated>
     <author>
         <name>Dipam Acharyya</name>
     </author>
     <id>https://digitaldreamersstemacademy.github.io</id>
 
     <entry>
-        <title>I like potatoes</title>
+        <title>Introduction to Arduino</title>
         <author>
             <name>Dipam Acharyya</name>
         </author>
@@ -18,11 +18,11 @@
         <id>https://digitaldreamersstemacademy.github.io/intro-to-arduino/</id>
         <media:content url="https://digitaldreamersstemacademy.github.io/media/posts/3/arduino-course-image-idea.png" medium="image" />
 
-        <updated>2023-03-31T22:56:15-07:00</updated>
+        <updated>2023-04-05T18:09:32-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://digitaldreamersstemacademy.github.io/media/posts/3/arduino-course-image-idea.png" alt="5 children of color of different genders collaborating in front of the Digital Dreamers logo on their Arduino projects" />
-                    This course is designed for kids who want to learn how to design and build their own Arduino projects. Arduino is a platform that&hellip;
+                    This course is designed for kids who want to learn how to design and build their own Arduino projects. Arduino&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -56,7 +56,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://digitaldreamersstemacademy.github.io/media/posts/2/minecraft-image.jpg" alt="A screenshot from Minecraft where 3 student of color player models interact in our Digital Dreamers STEAM Academy online classroom environment, supported by Minecraft Educator Edition." />
-                    In this course, students will learn how to create their own custom worlds, characters, items, and mechanics using Minecraft Education Edition and Code Builder.
+                    In this course, students will learn how to create their own custom worlds, characters, items, and mechanics using Minecraft Education&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -94,7 +94,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://digitaldreamersstemacademy.github.io/media/posts/1/roblox-image.jpg" alt="" />
-                    Our Roblox game design course is a fun and engaging way to introduce kids to STEAM concepts and skills. In this course, students will&hellip;
+                    Our Roblox game design course is a fun and engaging way to introduce kids to STEAM concepts and skills. In&hellip;
                 ]]>
             </summary>
         <content type="html">
