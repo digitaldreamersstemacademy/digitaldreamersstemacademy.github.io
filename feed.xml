@@ -3,12 +3,60 @@
     <title>Digital Dreamers STEAM Academy</title>
     <link href="https://digitaldreamersstemacademy.github.io/feed.xml" rel="self" />
     <link href="https://digitaldreamersstemacademy.github.io" />
-    <updated>2023-05-04T16:12:46-07:00</updated>
+    <updated>2023-05-04T16:20:12-07:00</updated>
     <author>
         <name>Dipam Acharyya</name>
     </author>
     <id>https://digitaldreamersstemacademy.github.io</id>
 
+    <entry>
+        <title>9-12</title>
+        <author>
+            <name>Dipam Acharyya</name>
+        </author>
+        <link href="https://digitaldreamersstemacademy.github.io/9-12/"/>
+        <id>https://digitaldreamersstemacademy.github.io/9-12/</id>
+
+        <updated>2023-05-04T16:17:07-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>6-8</title>
+        <author>
+            <name>Dipam Acharyya</name>
+        </author>
+        <link href="https://digitaldreamersstemacademy.github.io/6-8/"/>
+        <id>https://digitaldreamersstemacademy.github.io/6-8/</id>
+
+        <updated>2023-05-04T16:17:04-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>3-5</title>
+        <author>
+            <name>Dipam Acharyya</name>
+        </author>
+        <link href="https://digitaldreamersstemacademy.github.io/3-5/"/>
+        <id>https://digitaldreamersstemacademy.github.io/3-5/</id>
+
+        <updated>2023-05-04T16:16:59-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>K-2</title>
+        <author>
+            <name>Dipam Acharyya</name>
+        </author>
+        <link href="https://digitaldreamersstemacademy.github.io/k-2/"/>
+        <id>https://digitaldreamersstemacademy.github.io/k-2/</id>
+
+        <updated>2023-05-04T16:16:55-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Introduction to Arduino</title>
         <author>
@@ -17,7 +65,7 @@
         <link href="https://digitaldreamersstemacademy.github.io/intro-to-arduino/"/>
         <id>https://digitaldreamersstemacademy.github.io/intro-to-arduino/</id>
 
-        <updated>2023-05-04T16:12:41-07:00</updated>
+        <updated>2023-05-04T16:20:04-07:00</updated>
             <summary>
                 <![CDATA[
                     This course is designed for kids who want to learn how to design and build their own Arduino projects. Arduino&hellip;
@@ -48,7 +96,7 @@
         <link href="https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy-2/"/>
         <id>https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy-2/</id>
 
-        <updated>2023-05-04T16:12:46-07:00</updated>
+        <updated>2023-05-04T16:20:08-07:00</updated>
             <summary>
                 <![CDATA[
                     In this course, students will learn how to create their own custom worlds, characters, items, and mechanics using Minecraft Education&hellip;
@@ -83,7 +131,7 @@
         <link href="https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy/"/>
         <id>https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy/</id>
 
-        <updated>2023-05-04T16:09:44-07:00</updated>
+        <updated>2023-05-04T16:20:12-07:00</updated>
             <summary>
                 <![CDATA[
                     Our Roblox game design course is a fun and engaging way to introduce kids to STEAM concepts and skills. In&hellip;

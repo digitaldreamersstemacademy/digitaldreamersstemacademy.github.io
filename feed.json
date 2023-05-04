@@ -5,10 +5,59 @@
     "home_page_url": "https://digitaldreamersstemacademy.github.io",
     "feed_url": "https://digitaldreamersstemacademy.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://digitaldreamersstemacademy.github.io/media/website/DDSA-LOGO-ORANGE.png",
     "author": {
         "name": "Dipam Acharyya"
     },
     "items": [
+        {
+            "id": "https://digitaldreamersstemacademy.github.io/9-12/",
+            "url": "https://digitaldreamersstemacademy.github.io/9-12/",
+            "title": "9-12",
+            "author": {
+                "name": "Dipam Acharyya"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-04T16:17:07-07:00",
+            "date_modified": "2023-05-04T16:17:07-07:00"
+        },
+        {
+            "id": "https://digitaldreamersstemacademy.github.io/6-8/",
+            "url": "https://digitaldreamersstemacademy.github.io/6-8/",
+            "title": "6-8",
+            "author": {
+                "name": "Dipam Acharyya"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-04T16:17:04-07:00",
+            "date_modified": "2023-05-04T16:17:04-07:00"
+        },
+        {
+            "id": "https://digitaldreamersstemacademy.github.io/3-5/",
+            "url": "https://digitaldreamersstemacademy.github.io/3-5/",
+            "title": "3-5",
+            "author": {
+                "name": "Dipam Acharyya"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-04T16:16:59-07:00",
+            "date_modified": "2023-05-04T16:16:59-07:00"
+        },
+        {
+            "id": "https://digitaldreamersstemacademy.github.io/k-2/",
+            "url": "https://digitaldreamersstemacademy.github.io/k-2/",
+            "title": "K-2",
+            "author": {
+                "name": "Dipam Acharyya"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-04T16:16:55-07:00",
+            "date_modified": "2023-05-04T16:16:55-07:00"
+        },
         {
             "id": "https://digitaldreamersstemacademy.github.io/intro-to-arduino/",
             "url": "https://digitaldreamersstemacademy.github.io/intro-to-arduino/",
@@ -21,7 +70,7 @@
             "tags": [
             ],
             "date_published": "2023-03-30T23:57:53-07:00",
-            "date_modified": "2023-05-04T16:12:41-07:00"
+            "date_modified": "2023-05-04T16:20:04-07:00"
         },
         {
             "id": "https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy-2/",
@@ -35,7 +84,7 @@
             "tags": [
             ],
             "date_published": "2023-03-30T23:57:50-07:00",
-            "date_modified": "2023-05-04T16:12:46-07:00"
+            "date_modified": "2023-05-04T16:20:08-07:00"
         },
         {
             "id": "https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy/",
@@ -49,7 +98,7 @@
             "tags": [
             ],
             "date_published": "2023-03-30T23:10:55-07:00",
-            "date_modified": "2023-05-04T16:09:44-07:00"
+            "date_modified": "2023-05-04T16:20:12-07:00"
         }
     ]
 }
