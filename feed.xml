@@ -3,7 +3,7 @@
     <title>Digital Dreamers STEAM Academy</title>
     <link href="https://digitaldreamersstemacademy.github.io/feed.xml" rel="self" />
     <link href="https://digitaldreamersstemacademy.github.io" />
-    <updated>2023-05-04T16:09:44-07:00</updated>
+    <updated>2023-05-04T16:12:46-07:00</updated>
     <author>
         <name>Dipam Acharyya</name>
     </author>
@@ -16,18 +16,15 @@
         </author>
         <link href="https://digitaldreamersstemacademy.github.io/intro-to-arduino/"/>
         <id>https://digitaldreamersstemacademy.github.io/intro-to-arduino/</id>
-        <media:content url="https://digitaldreamersstemacademy.github.io/media/posts/3/arduino-course-image-idea.png" medium="image" />
 
-        <updated>2023-04-05T18:09:32-07:00</updated>
+        <updated>2023-05-04T16:12:41-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://digitaldreamersstemacademy.github.io/media/posts/3/arduino-course-image-idea.png" alt="5 children of color of different genders collaborating in front of the Digital Dreamers logo on their Arduino projects" />
                     This course is designed for kids who want to learn how to design and build their own Arduino projects. Arduino&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://digitaldreamersstemacademy.github.io/media/posts/3/arduino-course-image-idea.png" class="type:primaryImage" alt="5 children of color of different genders collaborating in front of the Digital Dreamers logo on their Arduino projects" /></p>
                 <p><span style="font-weight: 400;">This course is designed for kids who want to learn how to design and build their own Arduino projects. Arduino is a platform that combines hardware and software to create interactive devices that can sense and control the physical world. Arduino is easy to use, fun, and creative.</span></p>
 <p> </p>
 <p><span style="font-weight: 400;">In this course, students will learn the basics of Arduino programming and circuit design. students will also learn how to use different sensors and actuators to make their projects more interactive and responsive. students will work on hands-on projects that are fun, creative, and related to some real world attribute.</span></p>
@@ -50,18 +47,15 @@
         </author>
         <link href="https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy-2/"/>
         <id>https://digitaldreamersstemacademy.github.io/digital-dreamers-steam-academy-2/</id>
-        <media:content url="https://digitaldreamersstemacademy.github.io/media/posts/2/minecraft-image.jpg" medium="image" />
 
-        <updated>2023-03-31T01:05:59-07:00</updated>
+        <updated>2023-05-04T16:12:46-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://digitaldreamersstemacademy.github.io/media/posts/2/minecraft-image.jpg" alt="A screenshot from Minecraft where 3 student of color player models interact in our Digital Dreamers STEAM Academy online classroom environment, supported by Minecraft Educator Edition." />
                     In this course, students will learn how to create their own custom worlds, characters, items, and mechanics using Minecraft Education&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://digitaldreamersstemacademy.github.io/media/posts/2/minecraft-image.jpg" class="type:primaryImage" alt="A screenshot from Minecraft where 3 student of color player models interact in our Digital Dreamers STEAM Academy online classroom environment, supported by Minecraft Educator Edition." /></p>
                 <p><span style="font-weight: 400;">In this course, students will learn how to create their own custom worlds, characters, items, and mechanics using Minecraft Education Edition and Code Builder. They will also explore various aspects of game design such as storytelling, level design, user interface, sound effects, and testing.</span></p>
 <p><span style="font-weight: 400;">The course consists of 10 lessons, each lasting about an hour. The lessons are:</span></p>
 <ol>
